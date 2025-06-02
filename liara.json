@@ -1,0 +1,9 @@
+{
+    "app": "zanboorak",
+    "disks": [
+        {
+            "name": "zanboorak",
+            "mountTo": "public/upload"
+        }
+    ]
+}
